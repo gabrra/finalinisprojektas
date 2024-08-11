@@ -25,7 +25,7 @@ Pastaba, jei naudojate python3, turėtų būti
 Sistema paprašys terminale įvesti html, pavyzdys:
 ```https://edition.cnn.com/```
 
-Tada spauskite enter ir įveskite elemento pavadinimą terminale (atsiminkite, kas parašyta pradžioje dėl div ir h3 elementų) 
+Tada spauskite enter ir įveskite elemento pavadinimą terminale (atsiminkite, kas parašyta pradžioje dėl div ir h3 elementų), pavyzdys:
 ```container__text container_lead-plus-headlines__text```
 
 Ir vėl spauskite enter.
