@@ -22,7 +22,7 @@ Paleiskite 'main.py' failą
 Pastaba, jei naudojate python3, turėtų būti
 ```python3 main.py```
 
-Sistema paprašys įvesti html, pavyzdys:
+Sistema paprašys terminale įvesti html, pavyzdys:
 ```https://edition.cnn.com/```
 
 Tada spauskite enter ir įveskite elemento pavadinimą terminale (atsiminkite, kas parašyta pradžioje dėl div ir h3 elementų) 
