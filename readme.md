@@ -30,6 +30,6 @@ Tada spauskite enter ir įveskite elemento pavadinimą terminale (atsiminkite, k
 
 Ir vėl spauskite enter.
 
-Savo terminale matysite visą sąrašą straipsnių pavadinimų išrykiuotų pagal abecėlę
+Savo terminale matysite visą sąrašą straipsnių pavadinimų išrykiuotų pagal abecėlę.
 
 Gero naudojimo!
