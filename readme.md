@@ -8,9 +8,7 @@ Turėtumėte įsitikinti, kad įrašytas BeautifulSoup https://pypi.org/project/
 
 ## Failai
 - 'scraper.py' - pagrindinis scraperis, jei svetainėje naudojamas div elementas
-- 'scraper_h3.py' - papildomas scraperis, jei svetainėje naudojamas h3 elementas
-- 'main.py' - failas, kuris turės būti paleistas terminale. Šiame faile taip pat rasite svetainių ir jų straipsnių div pavyzdžių. Pastaba: jei naudosite h3, turėsite pakoreguoti ir main.py
-
+- 'main.py' - failas, kuris turės būti paleistas terminale. Šiame faile taip pat rasite svetainių ir jų straipsnių div pavyzdžių. 
 ## Naudojimas
 
 Įsirašykite beautifulsoup4
@@ -22,13 +20,15 @@ Paleiskite 'main.py' failą
 Pastaba, jei naudojate python3, turėtų būti
 ```python3 main.py```
 
-Sistema paprašys terminale įvesti html, pavyzdys:
-```https://edition.cnn.com/```
+Sistema paprašys terminale įvesti vieną iš penkių siūlomų html
+```Choose website to scrape:
+1. BBC
+2. CNN
+3. Economist
+4. LRT
+5. 15min```
 
-Tada spauskite enter ir įveskite elemento pavadinimą terminale (atsiminkite, kas parašyta pradžioje dėl div ir h3 elementų), pavyzdys:
-```container__text container_lead-plus-headlines__text```
-
-Ir vėl spauskite enter.
+Tada spauskite enter.
 
 Savo terminale matysite visą sąrašą straipsnių pavadinimų išrykiuotų pagal abecėlę.
 
