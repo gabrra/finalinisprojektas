@@ -34,4 +34,7 @@ Tada spauskite enter.
 Savo terminale matysite visą sąrašą straipsnių pavadinimų išrykiuotų pagal abecėlę.
 
 Gero naudojimo!
+<<<<<<< HEAD
 # CA-projektas
+=======
+>>>>>>> 12be43a5ded15e6d215fe2ae34c2cd02cc84a72b
