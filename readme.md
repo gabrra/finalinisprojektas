@@ -20,7 +20,7 @@ Paleiskite 'main.py' failą
 Pastaba, jei naudojate python3, turėtų būti
 ```python3 main.py```
 
-Sistema paprašys terminale įvesti vieną iš penkių siūlomų html
+Sistema paprašys terminale pasirinkti vieno iš penkių siūlomų html numerį (1-5):
 ```Choose website to scrape:
 1. BBC
 2. CNN
