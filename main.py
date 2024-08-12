@@ -1,4 +1,4 @@
-from scrape import get_sorted_titles
+from scraper import get_sorted_titles
 
 
 def print_sorted_titles(url: str, tag_name: str, class_name: str):
