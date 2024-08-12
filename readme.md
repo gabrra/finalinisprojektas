@@ -34,5 +34,3 @@ Tada spauskite enter.
 Savo terminale matysite visą sąrašą straipsnių pavadinimų išrykiuotų pagal abecėlę.
 
 Gero naudojimo!
-
-test
