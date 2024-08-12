@@ -26,7 +26,8 @@ Sistema paprašys terminale įvesti vieną iš penkių siūlomų html
 2. CNN
 3. Economist
 4. LRT
-5. 15min```
+5. 15min
+```
 
 Tada spauskite enter.
 
